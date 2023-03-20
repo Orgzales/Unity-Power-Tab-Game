@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Power Tab frenzy", "Assembly-CSharp-firstpass.csproj", "{3DD529CF-8A49-461C-3573-719AC518D8A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Power Tab frenzy", "Assembly-CSharp.csproj", "{B9FE3252-17F8-9A49-EA51-5D30262E1914}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Power Tab frenzy", "Assembly-CSharp-Editor-firstpass.csproj", "{9F46B521-B5C4-13DE-1437-8B58C9BF8E42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DD529CF-8A49-461C-3573-719AC518D8A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DD529CF-8A49-461C-3573-719AC518D8A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DD529CF-8A49-461C-3573-719AC518D8A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DD529CF-8A49-461C-3573-719AC518D8A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9FE3252-17F8-9A49-EA51-5D30262E1914}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9FE3252-17F8-9A49-EA51-5D30262E1914}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9FE3252-17F8-9A49-EA51-5D30262E1914}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9FE3252-17F8-9A49-EA51-5D30262E1914}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F46B521-B5C4-13DE-1437-8B58C9BF8E42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F46B521-B5C4-13DE-1437-8B58C9BF8E42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F46B521-B5C4-13DE-1437-8B58C9BF8E42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F46B521-B5C4-13DE-1437-8B58C9BF8E42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\Player.cs">
+    <Files>
+      <File FileName="Assets\scripts\Player.cs" Line="69" Column="3" />
+      <File FileName="Assets\scripts\LevelManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\CameraMotor.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\ScrollTex.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\MenuManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\SmoothCamera.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Rotation.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Rotation2.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Rotation3.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\SceneChanger.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Coin_Spin.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
